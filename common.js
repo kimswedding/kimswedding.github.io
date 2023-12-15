@@ -46,6 +46,7 @@ $(document).ready(function() {
     var now = new Date();
 
     var gap = now.getTime() - Dday.getTime();
+
     var result = Math.floor(gap / (1000 * 60 * 60 * 24)) * -1;
 
     $('#weddingDay').html(result);

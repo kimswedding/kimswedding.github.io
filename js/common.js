@@ -42,7 +42,7 @@ $(document).ready(function() {
         });
 
     //wedding d-day calc
-    var Dday = new Date(2022, 11, 10);    // D-day(2022년 12월(-1) 10일)를 셋팅한다.
+    var Dday = new Date(2024, 0, 27);    // D-day(2022년 12월(-1) 10일)를 셋팅한다.
     var now = new Date();
 
     var gap = now.getTime() - Dday.getTime();

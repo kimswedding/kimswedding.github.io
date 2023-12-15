@@ -251,7 +251,7 @@
 
     &-calendar {
         @include vw-mo(margin-top, 60);
-        @include vw-mo(padding, 0 30);
+        @include vw-mo(padding, 0);
         text-align: center;
 
         img {
