@@ -8,7 +8,7 @@
     width: 1080px;
     height: 100vh;
     margin: 0 auto;
-    background: url('../images/img_main.jpg') no-repeat;
+    background: url('../images/img_main.jpeg') no-repeat;
     background-size: 100% auto;
     background-position: center;
     padding: 400px 0;
@@ -28,7 +28,7 @@
         position: relative;
         width: 100%;
         @include vw-mo(height, 566);
-        background: url('../images/img_main.jpg') no-repeat;
+        background: url('../images/img_main.jpeg') no-repeat;
         background-size: auto 100%;
         background-position: center;
         &__title {
