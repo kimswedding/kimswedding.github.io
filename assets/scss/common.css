@@ -235,8 +235,8 @@
   position: absolute;
   display: block;
   width: 100%;
-  top: 440.32px;
-  top: 57.3333333333vw;
+  top: 204.8px;
+  top: 26.6666666667vw;
   left: 0;
   font-family: "Alata", sans-serif;
   text-align: center;
@@ -249,8 +249,8 @@
 }
 @media (max-width: 375px) {
   .main-visual__title {
-    top: 215px;
-    top: 57.3333333333vw;
+    top: 100px;
+    top: 26.6666666667vw;
   }
 }
 html[lang^=th] .main-visual__title {

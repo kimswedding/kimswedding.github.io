@@ -256,7 +256,7 @@
 @media (max-width: 375px) {
   .main-visual__title {
     top: 215px;
-    top: 57.3333333333vw;
+    top: 12.3333333333vw;
   }
 }
 html[lang^="th"] .main-visual__title {
@@ -288,7 +288,7 @@ html[lang^="th"] .main-visual__title {
 @media (max-width: 375px) {
   .main-visual__name {
     top: 325px;
-    top: 86.6666666667vw;
+    top: 37.6666666667vw;
   }
 }
 html[lang^="th"] .main-visual__name {
@@ -348,7 +348,7 @@ html[lang^="th"] .main-visual__name--small {
 @media (max-width: 375px) {
   .main-visual__date {
     bottom: 20px;
-    bottom: 5.3333333333vw;
+    bottom: 95.3333333333vw;
   }
 }
 html[lang^="th"] .main-visual__date {
@@ -665,14 +665,14 @@ html[lang^="th"] .main-visual__date {
   margin-top: 0vw;
   padding: 40.96px 0px;
   padding: 5.3333333333vw 0vw;
-  background-color: #f3f8ff;
+  background-color: #ffffff;
   text-align: center;
-  font-size: 20px;
+  font-size: px;
 }
 @media (max-width: 375px) {
   .main-date {
     margin-top: 99px;
-    margin-top: 26.4vw;
+    margin-top: 0vw;
   }
 }
 @media (max-width: 375px) {
@@ -820,25 +820,25 @@ html[lang^="th"] .main-visual__date {
 }
 .main-location__btn {
   margin-top: 40.96px;
-  margin-top: 5.3333333333vw;
+  margin-top: 3.3333333333vw;
   padding: 0px 61.44px;
-  padding: 0vw 8vw;
+  padding: 0vw 6vw;
 }
 @media (max-width: 375px) {
   .main-location__btn {
     margin-top: 20px;
-    margin-top: 5.3333333333vw;
+    margin-top: 3.3333333333vw;
   }
 }
 @media (max-width: 375px) {
   .main-location__btn {
     padding: 0px 30px;
-    padding: 0vw 8vw;
+    padding: 0vw 6vw;
   }
 }
 .main-location__btn--underline {
   position: relative;
-  font-size: 14px;
+  font-size: 10px;
 }
 .main-location__btn--underline + .main-location__btn--underline {
   margin-left: 20.48px;
@@ -1077,24 +1077,25 @@ html[lang^="th"] .main-visual__date {
   text-align: center;
   font-size: 16px;
   font-weight: 500;
-  background-color: #f3f8ff;
+  background-color: #fff;
   line-height: 1;
 }
 @media (max-width: 375px) {
   .popup-title {
     padding: 18px 0px;
-    padding: 4.8vw 0vw;
+    padding:  0vw;
   }
 }
 .popup-title__close {
   position: absolute;
-  top: 50%;
+  top: 5vw;
   right: 40.96px;
   right: 5.3333333333vw;
   transform: translateY(-50%);
 }
 @media (max-width: 375px) {
   .popup-title__close {
+    top: 5vw;
     right: 20px;
     right: 5.3333333333vw;
   }
